@@ -1,4 +1,4 @@
-# 네이버 부스트캠프 AI Tech 기업언계해커톤 랩큐 NLP 9조 - FinBuddy
+# 네이버 부스트캠프 AI Tech 기업연계해커톤 랩큐 NLP 9조 - FinBuddy
 </br>
 
 ## 증권사 자료 기반 주식 LLM 서비스 개발
