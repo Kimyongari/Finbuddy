@@ -14,9 +14,6 @@ api endpoint는 다음과 같습니다.
     [post] /api/for_service/query_open_domain : 외부 검색 엔진을 통해 질문에 해당하는 답변을 네이버 뉴스에서 찾아 출력합니다.
     [post] /api/for_service/query : RAG시스템을 사용할지 여부를 직접 판단하여 알맞는 답변을 내보냅니다.
 
-## front
-> front잘모름 
-
 ## modules
 > 프로젝트가 동작하기 위한 소스코드들이 첨부돼 있습니다.
 ### 1. pdf_parsing
